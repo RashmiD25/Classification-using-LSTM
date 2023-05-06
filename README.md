@@ -1,4 +1,4 @@
-# ECE-542 Projcet-C4-code
+# Classification using LSTM for time series data
 
 This notebook contains the code for our Competition Project. 
 
